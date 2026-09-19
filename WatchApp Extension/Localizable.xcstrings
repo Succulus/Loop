@@ -135,12 +135,6 @@
             "value" : "---"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -738,7 +732,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til karbohydrater"
+            "value" : "Legg inn karbohydrater"
           }
         },
         "nl" : {
@@ -762,7 +756,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă carbohidrați"
+            "value" : "Adăugați carbohidrați"
           }
         },
         "ru" : {
@@ -798,7 +792,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加碳水化合物"
+            "value" : "添加碳水摄入"
           }
         }
       }
@@ -918,6 +912,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolus"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大剂量"
           }
         }
       }
@@ -1181,12 +1181,6 @@
             "value" : "Continue"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "जारी"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1226,7 +1220,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuă"
+            "value" : "Continuați"
           }
         },
         "ru" : {
@@ -1383,6 +1377,12 @@
             "state" : "translated",
             "value" : "dB"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dB"
+          }
         }
       }
     },
@@ -1470,7 +1470,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renunță"
+            "value" : "Renunțați"
           }
         },
         "ru" : {
@@ -1714,7 +1714,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asigurați-vă că iPhone-ul este în apropiere, după care încercați din nou"
+            "value" : "Asigurați-vă că telefonul este în apropiere, după care încercați din nou"
           }
         },
         "ru" : {
@@ -1809,7 +1809,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asigurați-vă că iPhone-ul este în apropiere, după care încercați din nou."
+            "value" : "Asigurați-vă că telefonul este în apropiere, după care încercați din nou."
           }
         },
         "ru" : {
@@ -1828,6 +1828,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "iPhone'unuzun yakında olduğundan emin olun ve tekrar deneyin."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请确保您的 iPhone 在附近，然后重试。"
           }
         }
       }
@@ -2299,6 +2305,12 @@
             "state" : "translated",
             "value" : "Kapalı"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭"
+          }
         }
       }
     },
@@ -2427,7 +2439,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "好的"
+            "value" : "OK"
           }
         }
       }
@@ -2862,7 +2874,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preprandial"
+            "value" : "Înainte de masă"
           }
         },
         "ru" : {
@@ -2976,6 +2988,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ön ayar"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预设"
           }
         }
       }
@@ -3312,6 +3330,12 @@
             "state" : "translated",
             "value" : "Önerilen: %@ Ü"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐: %@ 单位"
+          }
         }
       }
     },
@@ -3394,6 +3418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Önerilen: Hesaplanıyor..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "REC：正在计算……"
           }
         }
       }
@@ -3601,7 +3631,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează"
+            "value" : "Salvați"
           }
         },
         "ru" : {
@@ -3702,7 +3732,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează & Bolus"
+            "value" : "Salvați & bolusați"
           }
         },
         "ru" : {
@@ -3910,7 +3940,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rotiți pentru a confirma bolusul"
+            "value" : "Rotiți coroana digitală pentru bolus"
           }
         },
         "ru" : {
@@ -4051,6 +4081,12 @@
           }
         },
         "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U"
+          }
+        },
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "U"
@@ -4237,7 +4273,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu se poate accesa iPhone-ul"
+            "value" : "Nu se poate accesa iPhone"
           }
         },
         "ru" : {
@@ -4256,6 +4292,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "iPhone'a Ulaşılamıyor"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法连接 iPhone"
           }
         }
       }

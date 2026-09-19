@@ -309,12 +309,6 @@
             "value" : "---"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -462,7 +456,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pre-måltid"
+            "value" : "Før måltid"
           }
         },
         "nl" : {
@@ -486,7 +480,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preprandial"
+            "value" : "Înainte de masă"
           }
         },
         "ru" : {
@@ -1348,7 +1342,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Overstyr"
+            "value" : "Overstyring"
           }
         },
         "nl" : {
@@ -1402,7 +1396,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Override"
+            "value" : "覆盖"
           }
         }
       }
@@ -2362,12 +2356,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "---"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
           }
         },
         "it" : {
